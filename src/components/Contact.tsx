@@ -141,7 +141,7 @@ export const Contact: React.FC<ContactProps> = ({
                     Mr. Pinak Vyas
                   </div>
                   <p className="text-xs text-[#FDBA12] mt-0.5 font-medium">
-                    20+ Years Battery Industry Veteran &bull; Best Seller in Gujarat, Maharashtra, Rajasthan, MP, Assam &amp; Odisha
+                    Ahmedabad, Gujarat &bull; 20+ Years Battery Industry Veteran &bull; Best Seller in Gujarat, Maharashtra, Rajasthan, MP, Assam &amp; Odisha
                   </p>
                 </div>
 
@@ -203,7 +203,7 @@ export const Contact: React.FC<ContactProps> = ({
                   <div>
                     <span className="text-xs font-medium text-slate-400">Base of Operations</span>
                     <div className="text-sm font-semibold text-slate-200">
-                      Gujarat, India &bull; Serving Across All States
+                      Ahmedabad, Gujarat, India &bull; Serving Across All States
                     </div>
                   </div>
                 </div>

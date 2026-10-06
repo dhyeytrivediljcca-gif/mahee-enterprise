@@ -25,7 +25,7 @@ export const PanIndiaSection: React.FC = () => {
             </p>
 
             <p className="text-sm sm:text-base text-slate-400 leading-relaxed font-normal">
-              From our Gujarat headquarters, Mahee Enterprise actively participates in <strong>Government-related projects</strong>, provides <strong>Zatka Machine subsidies</strong>, and supplies all types of heavy-duty batteries, zatka machines, jatka machine ropes, and solar panels with guaranteed safe transit nationwide.
+              From our headquarters in <strong>Ahmedabad, Gujarat</strong>, Mahee Enterprise actively participates in <strong>Government-related projects</strong>, provides <strong>Zatka Machine subsidies</strong>, and supplies all types of heavy-duty batteries, zatka machines, jatka machine ropes, and solar panels with guaranteed safe transit nationwide.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 border-t border-white/10">
@@ -212,9 +212,9 @@ export const PanIndiaSection: React.FC = () => {
                   </g>
 
                   {/* Gujarat Label Tag */}
-                  <rect x="62" y="244" width="126" height="26" rx="6" fill="#0D1117" stroke="#6B911B" strokeWidth="1.5" />
-                  <text x="125" y="261" fill="#FFFFFF" fontSize="11" fontWeight="bold" textAnchor="middle" fontFamily="Outfit, sans-serif">
-                    GUJARAT HQ
+                  <rect x="42" y="244" width="166" height="26" rx="6" fill="#0D1117" stroke="#6B911B" strokeWidth="1.5" />
+                  <text x="125" y="261" fill="#FFFFFF" fontSize="10.5" fontWeight="bold" textAnchor="middle" fontFamily="Outfit, sans-serif">
+                    AHMEDABAD, GUJARAT (HQ)
                   </text>
                 </svg>
               </div>
@@ -225,7 +225,7 @@ export const PanIndiaSection: React.FC = () => {
                   Best Seller States:
                 </div>
                 <div className="flex flex-wrap gap-2">
-                  {['Gujarat (HQ)', 'Maharashtra', 'Rajasthan', 'Madhya Pradesh', 'Assam', 'Odisha'].map((st) => (
+                  {['Ahmedabad, Gujarat (HQ)', 'Maharashtra', 'Rajasthan', 'Madhya Pradesh', 'Assam', 'Odisha'].map((st) => (
                     <span
                       key={st}
                       className="px-2.5 py-1 rounded-md text-xs font-bold bg-[#6B911B]/15 border border-[#6B911B]/30 text-[#A3D634]"

@@ -20,7 +20,7 @@ export const OwnerSection: React.FC = () => {
             Meet the Experience Behind Mahee
           </h2>
           <p className="text-base sm:text-lg text-slate-400 mt-2 font-normal">
-            Two decades of experience, trusted by customers across Gujarat and India.
+            Two decades of experience, based in Ahmedabad and trusted by customers across Gujarat and India.
           </p>
         </div>
 
@@ -54,7 +54,7 @@ export const OwnerSection: React.FC = () => {
                         Mr. Pinak Vyas
                       </h3>
                       <p className="text-xs uppercase tracking-wider font-semibold text-[#8DC624] mt-0.5">
-                        Founder &amp; Managing Director
+                        Founder &amp; Managing Director &bull; Ahmedabad, Gujarat
                       </p>
                     </div>
                     <div className="flex items-center gap-1 bg-[#6B911B]/15 border border-[#6B911B]/30 px-3 py-1.5 rounded-lg text-xs font-bold text-[#8DC624]">
@@ -71,7 +71,7 @@ export const OwnerSection: React.FC = () => {
           <div className="lg:col-span-7 space-y-8">
             <div className="space-y-4">
               <div className="inline-block text-xs uppercase tracking-widest font-bold text-[#8DC624] bg-[#6B911B]/15 border border-[#6B911B]/30 px-3 py-1 rounded-md">
-                20+ Years in the Battery Industry
+                20+ Years in the Battery Industry &bull; Ahmedabad
               </div>
 
               <h3 className="text-2xl sm:text-3xl font-extrabold text-white font-['Outfit'] leading-snug">
@@ -79,7 +79,7 @@ export const OwnerSection: React.FC = () => {
               </h3>
 
               <p className="text-base sm:text-lg text-slate-300 leading-relaxed font-normal">
-                With over two decades of experience in the battery field, Mr. Pinak Vyas has built Mahee Enterprise around product knowledge, customer trust and dependable service.
+                Based in Ahmedabad, Gujarat, with over two decades of dedicated experience in the battery field, Mr. Pinak Vyas has built Mahee Enterprise around product knowledge, customer trust, and dependable service.
               </p>
 
               <p className="text-sm sm:text-base text-slate-400 leading-relaxed font-normal">

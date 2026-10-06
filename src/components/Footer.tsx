@@ -212,7 +212,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectProduct }) =
               <div className="flex items-start gap-2 pt-1">
                 <MapPin className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
                 <span className="text-slate-300">
-                  Gujarat, India &bull; Serving Across India
+                  Ahmedabad, Gujarat, India &bull; Serving Across India
                 </span>
               </div>
             </div>
