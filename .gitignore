@@ -7,12 +7,9 @@ coverage/
 .env*
 !.env.example
 
-# Exclude image files as requested
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.gif
-*.bmp
-*.ico
-src/assets/images/
+# Root temporary images
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp
+
