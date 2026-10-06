@@ -1,0 +1,6 @@
+{
+  "name": "Mahee Jatka Machine Battery",
+  "description": "Official website for Mahee Jatka Machine Battery. Reliable Batteries, Solar Panels, and Zatka Machine Farm Safety Solutions across India with 20+ years of experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

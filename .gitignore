@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Exclude image files as requested
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.ico
+src/assets/images/
